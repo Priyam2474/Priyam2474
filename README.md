@@ -55,44 +55,6 @@ Built responsive React apps, designed MongoDB schemas with Mongoose, and shipped
 
 ---
 
-### 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎪 Elewen — Event Management & Booking Platform**
-Full-stack event booking platform with role-specific dashboards, Strapi CMS for dynamic content, and GSAP-animated, filterable package UIs.
-`React.js` `Node.js` `Express.js` `PostgreSQL` `Strapi CMS` `GSAP`
-
-</td>
-<td width="50%" valign="top">
-
-**🩺 Doctor Appointment System (MediPlus)**
-Healthcare appointment platform with JWT auth, role-based access (Admin/Doctor/Patient), Razorpay payments, and an admin dashboard with full CRUD.
-`React.js` `Node.js` `MongoDB` `JWT` `Razorpay`
-
-</td>
-</tr>
-</table>
-
-> 📌 Pinning these on my profile so recruiters see them first — check the pinned repos below!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyam2474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam2474&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyam2474&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
